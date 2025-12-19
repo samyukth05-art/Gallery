@@ -173,8 +173,10 @@ gallery.html
 
 ```
 # OUTPUT:
-![alt text](<Screenshot 2025-12-19 080841.png>)
-![alt text](<Screenshot 2025-12-19 093645.png>)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8d4170d7-956d-4081-8147-e10d0c5c56d7" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6b47c419-42d9-49a7-84bc-a60a29df90fd" />
+
+
 
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
